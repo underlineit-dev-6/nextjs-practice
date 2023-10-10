@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  @media screen {
+    max: w -7xl;
+  }
+}
